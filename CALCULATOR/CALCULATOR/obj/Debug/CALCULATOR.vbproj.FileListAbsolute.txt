@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.xml
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.xml
+c:\users\user\documents\visual studio 2012\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.xml
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.xml
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Resources.resources
+C:\Users\user\Desktop\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.vbproj.GenerateResource.Cache
